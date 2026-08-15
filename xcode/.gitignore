@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Xcode - Build generated
+build/
+DerivedData/
+
+# Xcode - Project
+*.xcodeproj
+
+# Xcode - User settings (Personal window layouts, open files, etc.)
+userdata/
+xcuserdata/
+*.xcuserdatad
+*.xcuserstate
+
+# Xcode - Core Data Model
+*.xcdatamodeld/
+*.xcdatamodel
+
+# Xcode - Workspace
+*.xcworkspace
+
+# App Store Design
+App Store Design/
+
+# Xcode - Workspaces & Schemes (Only ignore if you don't want to share them)
+# If you want to share your project schemes, remove the next two lines
+# !*.xcodeproj/xcshareddata/
+# !*.xcworkspace/xcshareddata/
+
+# Swift Package Manager
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.swiftpm/xcode/userdata/
+
+# CocoaPods (If you use them, ignore the Pods folder)
+# Pods/
