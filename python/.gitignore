@@ -1,0 +1,12 @@
+# General
+.vscode
+.DS_Store
+
+# Python
+__pycache__
+.venv/
+dist/
+build/
+
+# Raspberry Pi
+*.lgd-nfy0

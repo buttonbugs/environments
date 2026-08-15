@@ -1,0 +1,6 @@
+# General
+.vscode
+.DS_Store
+
+# C/C++
+.build
