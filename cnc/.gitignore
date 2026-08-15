@@ -1,0 +1,5 @@
+# MakeraCAM files
+.mkc
+
+# CNC Machine unrealated files
+*.nc.lz

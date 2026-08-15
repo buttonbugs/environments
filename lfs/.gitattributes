@@ -1,0 +1,8 @@
+# gif
+*.[gG][iI][fF] filter=lfs diff=lfs merge=lfs -text
+
+# mp3
+*.[mM][pP]3 filter=lfs diff=lfs merge=lfs -text
+
+# mp4
+*.[mM][pP]4 filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "(lldb) Launch",
+            "type": "lldb",             // install CodeLLDB extension before changing the "type" to "lldb"
+            "request": "launch",
+            "program": "${fileDirname}/.build/${fileBasenameNoExtension}",
+            "args": [],
+            "cwd": "${fileDirname}",
+            "terminal":"integrated",
+            "preLaunchTask": "C/C++: clang build active file",
+            "internalConsoleOptions": "neverOpen"
+        },
+    ]
+}

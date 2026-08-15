@@ -1,0 +1,3 @@
+# Remove CNC machine G-code from language count
+*.nc linguist-language=G-code
+*.nc linguist-generated
