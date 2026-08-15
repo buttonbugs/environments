@@ -1,0 +1,13 @@
+{
+    "chat.agent.enabled": false,
+    "stgen.aiAutoValidateOnCommit": false,
+    "workbench.colorTheme": "Dark Modern",
+    "python.createEnvironment.trigger": "off",
+    "workbench.startupEditor": "none",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "explorer.confirmPasteNative": false,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.secondarySideBar.defaultVisibility": "hidden"
+}
