@@ -1,2 +1,7 @@
+# General
+.vscode
+.DS_Store
+
+# LaTeX
 main.*
 !main.tex
