@@ -12,6 +12,12 @@ Click `MacTeX.pkg`.
 
 Install [LaTeX Workshop](vscode:extension/James-Yu.latex-workshop) by James Yu
 
+### Shortcuts
+
+- Compile: `Command + S`
+- Jump to PDF: `Command + Option + J`
+- Jump to LaTeX: `Command + Click`
+
 ## Online Environment
 
 https://overleaf.com/
