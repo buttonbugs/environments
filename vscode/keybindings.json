@@ -1,0 +1,8 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "shift+enter",
+        "command": "jupyter.runFileInteractive",
+        "when": "editorTextFocus && config.anacondaWorkspace.enabled"       // This allows the shortcut only works in anaconda workspace
+    }
+]
